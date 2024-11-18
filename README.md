@@ -43,6 +43,6 @@ The key objectives of the project are:
   Grad-CAM Heatmaps
 </h2>
 <p align="center">
-  <img src="grad_cam_results.png" alt="Grad-CAM Heatmaps" width="100%">
+  <img src="grad_cam_results.png" alt="Grad-CAM Heatmaps" width="90%">
 </p>
 
