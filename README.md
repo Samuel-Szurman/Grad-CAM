@@ -44,6 +44,6 @@ The key objectives of the project are:
 </h2>
 Heatmaps highlight regions of the input image that strongly influence the model's decision for a specific output class.
 <p align="center">
-  <img src="grad_cam_results.png" alt="Grad-CAM Heatmaps" width="90%">
+  <img src="grad_cam_results.png" alt="Grad-CAM Heatmaps" width="100%">
 </p>
 
