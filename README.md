@@ -1,6 +1,8 @@
 <h1>Grad-CAM on VGG16 Model</h1>
 <h2>Overview</h2>
 This project focuses on training a VGG16 model on the Imagenette dataset and applying the Grad-CAM (Gradient-weighted Class Activation Mapping) technique to interpret the model's predictions. The goal is to not only fine-tune the VGG16 architecture on a smaller dataset but also visualize and understand how the model makes decisions.
+<h2>About Grad-CAM</h2> 
+Grad-CAM, or Gradient-weighted Class Activation Mapping, is a visualization technique used to interpret the predictions of convolutional neural networks (CNNs). By leveraging the gradients of the target class with respect to the final convolutional layer, Grad-CAM generates a heatmap that highlights the regions of the input image most relevant to the model's prediction. This method is particularly valuable for understanding how a model focuses on specific features within an image, making it a powerful tool for model interpretability and debugging.
 <h2>Objective</h2>
 The key objectives of the project are:
 <ol>
