@@ -48,4 +48,6 @@ Heatmaps highlight regions of the input image that strongly influence the model'
 <p align="center">
   <img src="grad_cam_results.png" alt="Grad-CAM Heatmaps" width="100%">
 </p>
+<h2>Summary</h2>
+The Grad-CAM analysis confirms that the classifier focuses on relevant image regions when making predictions. Heatmaps accurately highlight the classified objects, indicating correct feature localization and model reliability. This enhances confidence in the model and suggests it is learning meaningful patterns.
 
